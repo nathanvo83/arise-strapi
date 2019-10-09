@@ -1,0 +1,23 @@
+username: nathan
+password: 8R%E9@)L{7*f7^xW
+email: nathan.vo@augensoftwaregroup.com
+
+// {
+//     "defaultConnection": "restaurantdb_mongo",
+//     "connections": {
+//       "restaurantdb_mongo": {
+//         "connector": "strapi-hook-bookshelf",
+//         "settings": {
+//           "client": "sqlite3",
+//           "filename": ".tmp/data.db",
+//           "enabled": true,
+//           "host": "localhost",
+//           "port": 27017,
+//           "database": "restaurantdb"
+//         },
+//         "options": {
+//           "useNullAsDefault": true
+//         }
+//       }
+//     }
+//   }

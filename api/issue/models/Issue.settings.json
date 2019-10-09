@@ -1,0 +1,21 @@
+{
+  "connection": "default",
+  "collectionName": "issues",
+  "info": {
+    "name": "issue",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
